@@ -1,0 +1,42 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background:#FFF275;
+}
+header{
+  background: #326273;
+  padding: 10px;
+  color: #E39774;
+  
+  font-family: 'Comic Sans', cursive;
+}
+
+h1{
+	text-align:center;
+	margin:20px;
+	font-family:Verdana;
+}
+.instrucciones h2{
+	margin:20px;
+	font-family: Arial ;
+	font-size:15px;
+}
+.controles h3{
+	margin-top:12px;
+	font-family:Arial;
+	font-size:15px;
+	margin-left:20px;
+}
+canvas{
+	border:solid;
+	background:#C7E8F3;
+}
+
+section{
+	margin:auto;
+	margin-top:30px;
+	width:800px;
+}
+
